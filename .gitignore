@@ -1,3 +1,5 @@
 
 .gitattributes
 .gestion_inventario.py
+.inventario.py
+.vscode
